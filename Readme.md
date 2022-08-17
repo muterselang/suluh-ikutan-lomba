@@ -6,7 +6,7 @@ Salah satu profil perancang Undang Undang Dasar
 
 | Title        |   | Description                    |   
 |--------------|---|--------------------------------|
-| **Nama Discord dan Id** | : | Eärendil#8369     |
+| **Nama Discord dan Id** | : | Eärendil#8369 175503605237809153    |
 | **Author**       | : | Suluh |
 | **Tema**       | : | Salah satu perancang Undang Undang Dasar |
 | **Category**    | : | Desain Website                 |
