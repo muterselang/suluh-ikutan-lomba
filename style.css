@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin: 0;
+    padding: 0;
+}
+
+.kotak {
+    width: 350px;
+    padding: 30px;
+    margin: auto;
+    /* margin-top: 0%; */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.kotak figcaption {
+    font-size: 8pt;
+}
+
+.kotak p {
+    text-align: start;
+    font-size: 10pt;
+}
+
+footer p {
+    width: 350px;
+    padding: 30px;
+    margin: auto;
+    font-size: small;
+}
